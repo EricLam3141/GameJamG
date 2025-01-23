@@ -1,0 +1,1 @@
+oFloorFT.solid = false
